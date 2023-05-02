@@ -1,0 +1,13 @@
+
+Cuprins:
+1. Stabilirea cadrului SMSI potrivit necesităților Big Software Company
+    1. Prezentarea generală a cadrului organizației
+    2. Părțile interesate în securitatea informației
+    3. Aspecte interne și externe ale instituției, relevante pentru securitatea informației
+    4. Cerințe legislative, de reglementare și obligații contractuale ale părților interesate
+    5. Definirea sferei de aplicare a SMSI
+2. ...
+3. ...
+4. ...
+5. ...
+
