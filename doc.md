@@ -7,18 +7,6 @@
 - Țurcanu Cristian
 - ...
 
-
-Cota de participare: 
-
-| Nume, prenume | Elaborat |
-| --- | --- |
-| Țurcanu Cristian | 1.1 |
-| | 1.2 |
-| | 1.3 |
-| | 1.4 |
-
-...
-
 Cuprins: 
 1. Stabilirea cadrului SMSI potrivit necesităților Big Software Company
     1. Prezentarea generală a cadrului organizației
