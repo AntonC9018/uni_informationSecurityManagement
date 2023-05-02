@@ -4,33 +4,9 @@
 # Big Software Company
 
 ### Membrii echipei:
+
 - Țurcanu Cristian
 - ...
-
-
-Cota de participare: 
-
-| Nume, prenume | Elaborat |
-| --- | --- |
-| Țurcanu Cristian | 1.1 |
-| | 1.2 |
-| | 1.3 |
-| | 1.4 |
-
-...
-
-Cuprins: 
-1. Stabilirea cadrului SMSI potrivit necesităților Big Software Company
-    1. Prezentarea generală a cadrului organizației
-    2. Părțile interesate în securitatea informației
-    3. Aspecte interne și externe ale instituției, relevante pentru securitatea informației
-    4. Cerințe legislative, de reglementare și obligații contractuale ale părților interesate
-    5. Definirea sferei de aplicare a SMSI
-2. ...
-3. ...
-4. ...
-5. ...
-
 
 
 ## 1. Stabilirea cadrului SMSI potrivit necesităților Big Software Company
