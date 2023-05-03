@@ -15,9 +15,15 @@
 
 Big Software Company a fost inființată în anul 2012, care prestează servicii de dezvoltare software.
 Creând atât software propriu intern și public, cât și oferind servicii de outsorcing,
-BSC a reușit să devină una din cele mai mari companii de IT din Republica Moldova. La momentul dat,
-BSC are un oficiu în centrul orașului Chișinău, deși majoritatea angajaților lucrează la distanță,
-inclusiv și peste hotare.
+BSC a reușit să devină una din cele mai mari companii de IT din Republica Moldova.
+La momentul dat, BSC are un oficiu în centrul orașului Chișinău, deși majoritatea angajaților
+lucrează la distanță, inclusiv și peste hotare.
+
+Pe parcursul anilor, BSC a câștigat încrederea clienților prin calitatea serviciilor oferite,
+precum și prin respectarea termenelor de livrare.
+În prezent, BSC colaborează cu mai mulți clienți cu renume internațional, printre care 
+*insert names here*.
+
 
 ### 1.2. Părțile interesate în securitatea informației
 
@@ -37,8 +43,8 @@ Astfel, părțile interesate în securitatea informației sunt:
   riscurile de securitate a informațiilor și de a-și proteja activele,
   deoarece aceasta poate avea un impact asupra performanței financiare și a reputației companiei.
  
-- *Autoritățile de reglementare*, cum ar fi Centrul Naţional pentru
-  Protecţia Datelor cu Caracter Personal, sunt interesate să se asigure că compania
+- *Autoritățile de reglementare*, cum ar fi Centrul Național pentru
+  Protecția Datelor cu Caracter Personal, sunt interesate să se asigure că compania
   respectă legile și reglementările relevante referitoare la securitatea informațiilor.
  
 - *Partenerii de afaceri*, precum *furnizorii de servicii*, sunt interesați de capacitatea
@@ -93,7 +99,7 @@ Aspectele externe se referă la:
 
 ### 1.4. Cerințe legislative, de reglementare și obligații contractuale ale părților interesate
 
-- Legea Nr. 133 din 08-07-2011 privind protecţia datelor cu caracter personal
+- Legea Nr. 133 din 08-07-2011 privind protecția datelor cu caracter personal
  
 - Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016
   on the protection of natural persons with regard to the processing of personal
@@ -105,8 +111,10 @@ Aspectele externe se referă la:
 
 Adițional în dependență de sectorul de lucru a clienților vor fi aplicate și alte legi, precum:
 
-- Hotărârea Nr. 586 din 24-07-2017 pentru aprobarea Regulamentului privind modul de ţinere a Registrului medical
+- Hotărârea Nr. 586 din 24-07-2017 pentru aprobarea Regulamentului privind modul de ținere a Registrului medical
+ 
 - Legea Nr. 202 din 06-10-2017 privind activitatea băncilor
+ 
 - Legea Nr. 171 din 06-07-1994 cu privire la secretul comercial
 
 ### 1.5. Definirea sferei de aplicare a SMSI
