@@ -121,6 +121,9 @@ colectate, stocate și prelucrate de BSC despre:
  
 - Angajații BSC - dezvoltatorii softului și ai sistemelor interne, administratorii rețelelor interne;
 
+
+<!-- TBD: Descrierea acoperirii, limitelor SMSI, inclusiv locații fizice (whatever that means) -->
+
 ### 1.5. Definirea sferei de aplicare a SMSI
 
 <!-- aici descriem limitele SMSI, inițial pentru ce sisteme aplicăm, etc -->
