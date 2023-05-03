@@ -111,6 +111,16 @@ Adițional în dependență de sectorul de lucru a clienților vor fi aplicate �
  
 - Legea Nr. 171 din 06-07-1994 cu privire la secretul comercial
 
+
+Așadar, legile și reglementările descrise mai sus stabilesc cerințe față de obiectele informaționale
+colectate, stocate și prelucrate de BSC despre:
+
+- Clienții care semnez contracte cu BSC pentru dezvoltarea aplicațiilor;
+ 
+- Clienții serviciilor - utilizatorii softului dezvoltat de BSC;
+ 
+- Angajații BSC - dezvoltatorii softului și ai sistemelor interne, administratorii rețelelor interne;
+
 ### 1.5. Definirea sferei de aplicare a SMSI
 
 <!-- aici descriem limitele SMSI, inițial pentru ce sisteme aplicăm, etc -->
