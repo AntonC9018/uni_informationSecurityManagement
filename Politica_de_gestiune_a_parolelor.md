@@ -192,7 +192,7 @@ Un angajat constatat că a încălcat această politică poate fi supus unor mă
 Politica de gestiune VPN.
 
 
-### References
+### Referințe
 
 [Password Construction Guidelines at SANS](https://www.sans.org/information-security-policy/?per-page=100)  
 
