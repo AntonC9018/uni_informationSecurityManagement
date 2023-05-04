@@ -72,7 +72,7 @@ Aspectele interne se referă la:
 - Dezvoltarea și implementarea politicilor și procedurilor de securitate a informațiilor
   ale companiei, care să asigure o abordare consistentă și eficientă a securității
   informațiilor în cadrul organizației.
-
+ 
 Aspectele externe se referă la:
 
 - Respectarea *legilor* și reglementărilor aplicabile privind securitatea informațiilor, enumerate mai jos,
@@ -127,3 +127,4 @@ colectate, stocate și prelucrate de BSC despre:
 ### 1.5. Definirea sferei de aplicare a SMSI
 
 <!-- aici descriem limitele SMSI, inițial pentru ce sisteme aplicăm, etc -->
+
