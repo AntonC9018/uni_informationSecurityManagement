@@ -1,5 +1,6 @@
 
-4. Controlul accesului la sistemele informaţionale
+4. Controlul accesului la sistemele informaţionale/
+ (Politica/Procedura de asigurarea a securității informaționale)
 
 4.1. PREVEDERI GENERALE
   4.1.1. Obiectul Instrucţiunii
@@ -62,6 +63,9 @@
 4.13. PREVEDERI FINALE
 
 
+Content info
+
+
 4.1. PREVEDERI GENERALE
   Prezenta Instrucţiune este elaborată în corespundere cu bunele practici referitor la modul de accesare a informaţiei în sistemele și resursele informaţionale ale Companiei.
   Implementarea sistemelor de administrare a autorizărilor şi sistemelor de autentificare este una din măsurile care vor contribui la îmbunătăţirea securităţii informaţionale prin:
@@ -74,11 +78,11 @@
     Instrucţiunea descrie principiile de securitate şi regulile care se aplică în vederea:
       • organizării procesului de accesare a sistemelor informaţionale;
       • modalitatea de alegere şi de păstrare a factorilor de autentificare (parole).
-      • Implementării recomandărilor de securitate care urmează a fi aplicate de către fiecare utilizator al sistemului informaţional;
+      • implementării recomandărilor de securitate care urmează a fi aplicate de către fiecare utilizator al sistemului informaţional;
 
   4.1.2. Domeniul de aplicare
     Prezenta Instrucţiune se aplică şi este obligatorie pentru toate subdiviziunile Companiei. Prevederile prezentei Instrucţiuni, inclusiv cerințele pentru parole, sunt aplicabile pentru aplicaţiile și sistemele informatice gestionate de Companiei.
-    Securitatea identificării şi autentificării clienţilor Băncii nu este prevăzută de această Instrucţiune. Această Instrucţiune nu se răsfrânge asupra: administrării autorizării accesului la resursele fizice, registrelor datelor de identificare a utilizatorilor şi sistemelor de autentificare a accesului fizic.
+    Securitatea identificării şi autentificării clienţilor companiei nu este prevăzută de această Instrucţiune. Această Instrucţiune nu se răsfrânge asupra: administrării autorizării accesului la resursele fizice, registrelor datelor de identificare a utilizatorilor şi sistemelor de autentificare a accesului fizic.
 
-  4.1.3. Scopul Instrucțiunii
+  4.14.3. Scopul Instrucțiunii
     Scopul Instrucţiunii este de a stabili modalitatea de accesare a informaţiilor în sistemele informaţionale ale Companiei.
