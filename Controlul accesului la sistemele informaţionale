@@ -5,7 +5,6 @@
   4.1.1. Obiectul Instrucţiunii
   4.1.2. Domeniul de aplicare
   4.1.3. Scopul Instrucțiunii
-  4.1.4. Prezentarea riscurilor operationale acoperite
  
 4.2. GLOSAR
  
@@ -60,4 +59,26 @@
   4.12.1. Controale operaționale
   4.12.2. Supravegherea managerială
   
- 4.13. PREVEDERI FINALE
+4.13. PREVEDERI FINALE
+
+
+4.1. PREVEDERI GENERALE
+  Prezenta Instrucţiune este elaborată în corespundere cu bunele practici referitor la modul de accesare a informaţiei în sistemele și resursele informaţionale ale Companiei.
+  Implementarea sistemelor de administrare a autorizărilor şi sistemelor de autentificare este una din măsurile care vor contribui la îmbunătăţirea securităţii informaţionale prin:
+    • Asigurarea disponibilităţii, integrităţii şi confidenţialităţii resurselor informaţionale;
+    • Limitarea riscurilor de eroare sau de intenţii de rea voinţă: fraude; divulgării datelor confidenţiale; deconectării sistemelor; ştergerii sau sustragerii informaţiei; şi în termeni generali, a riscurilor de acces neautorizat;
+    • Acordarea asistenţei în căutarea şi analiza dovezilor şi stabilirea certă a responsabilităţii pentru acţiunile efectuate cu resursele informaţionale, prin utilizarea LOG-urilor de acces.
+    
+  4.1.1. Obiectul Instrucţiunii
+    Instrucţiunea defineşte normele de acces la informaţia, care circulă/ este prelucrată/ este stocată în sistemele informaţionale ale Companiei; stabileşte modalitatea de acordare/modificare/retragere a drepturilor de acces.
+    Instrucţiunea descrie principiile de securitate şi regulile care se aplică în vederea:
+      • organizării procesului de accesare a sistemelor informaţionale;
+      • modalitatea de alegere şi de păstrare a factorilor de autentificare (parole).
+      • Implementării recomandărilor de securitate care urmează a fi aplicate de către fiecare utilizator al sistemului informaţional;
+
+  4.1.2. Domeniul de aplicare
+    Prezenta Instrucţiune se aplică şi este obligatorie pentru toate subdiviziunile Companiei. Prevederile prezentei Instrucţiuni, inclusiv cerințele pentru parole, sunt aplicabile pentru aplicaţiile și sistemele informatice gestionate de Companiei.
+    Securitatea identificării şi autentificării clienţilor Băncii nu este prevăzută de această Instrucţiune. Această Instrucţiune nu se răsfrânge asupra: administrării autorizării accesului la resursele fizice, registrelor datelor de identificare a utilizatorilor şi sistemelor de autentificare a accesului fizic.
+
+  4.1.3. Scopul Instrucțiunii
+    Scopul Instrucţiunii este de a stabili modalitatea de accesare a informaţiilor în sistemele informaţionale ale Companiei.
