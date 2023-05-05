@@ -1,1 +1,63 @@
 
+4. Controlul accesului la sistemele informaţionale
+
+4.1. PREVEDERI GENERALE
+  4.1.1. Obiectul Instrucţiunii
+  4.1.2. Domeniul de aplicare
+  4.1.3. Scopul Instrucțiunii
+  4.1.4. Prezentarea riscurilor operationale acoperite
+ 
+4.2. GLOSAR
+ 
+4.3. PRINCIPIILE DE BAZĂ
+  4.3.1. Obiectivul
+  4.3.2. Prevederile
+  4.3.3. Accesului privilegiat
+  4.3.4. Revizuiri periodice
+  4.3.5. Utilizatorii
+  
+4.4 IDENTIFICAREA
+  4.4.1. Principii generale
+  4.4.2. Formatul identificatorului
+  4.4.3. Gestionarea identificatorilor
+  4.4.4. Identificatori generici
+  4.4.5. Controlul identificatorilor
+  
+4.5. AUTENTIFICAREA
+  4.5.1. Principii generale
+  4.5.2. Parola – Principii generale
+  4.5.3. Cerințele de bază față de parole
+  4.5.4. Robustețea parolei
+  4.5.5. Parola inițială
+  4.5.6. Introducerea parolei
+  4.5.7. Schimbarea parolei
+  4.5.8. Înregistrarea/Stocarea parolelor
+  4.5.9. Parolele asociate cu identificatorii tehnici/administrativi
+  4.5.10. Suportul tehnic
+  4.5.11. Controlul parolelor
+  
+4.6. AUTORIZAREA
+  4.6.1. Principii generale
+  4.6.2. Definirea drepturilor de acces
+  4.6.3. Administrarea drepturilor de acces
+  4.6.4. Acordarea drepturilor de acces
+  4.6.5. Retragerea drepturilor de acces
+  4.6.6. Administrarea drepturi de acces privilegiate
+  4.6.7. Delegarea drepturilor de acces
+  4.6.8. Controlul drepturilor de acces
+  
+4.7. TRASABILITATEA
+
+4.8. MODUL DE SELECTARE AL APLICAȚIILOR
+
+4.9. MĂSURI ADĂUGĂTOARE DE SECURITATE
+
+4.10. ADMINISTRAREA EXCEPȚIILOR
+
+4.11. RESPONSABILITĂȚI
+
+4.12. CONTROL PERMANENT
+  4.12.1. Controale operaționale
+  4.12.2. Supravegherea managerială
+  
+ 4.13. PREVEDERI FINALE
