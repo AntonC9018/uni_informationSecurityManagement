@@ -1,6 +1,6 @@
 ## ????? Information Security Risk Assessment
 
-### **1. Amenințarea din interior**
+### 1. Amenințarea din interior
 
 - **Un angajat rău intenționat** poate fura în mod intenționat date sensibile
   sau proprietate intelectuală pentru a le vinde unui concurent sau pentru a le folosi
@@ -45,7 +45,7 @@ desfășurarea unor cursuri periodice de sensibilizare la securitate pentru anga
 și creșterea capacităților noastre de monitorizare și audit.
 -->
 
-### **2. Phishing și inginerie socială**
+### 2. Phishing și inginerie socială
 
 Aceste tipuri de atac reprezintă riscuri semnificative pentru organizație.
 Pe baza rapoartelor din industrie s-au identificat mai multe moduri în care pot avea loc aceste atacuri:
@@ -78,21 +78,21 @@ sistemul de filtrare a e-mailurilor a reușit să blocheze toate mesajele suspic
 pentru a reduce riscul de phishing la momentul dat.
 
 
-### **3. Infecții malware**
+### 3. Infecții malware
 
 Malware-ul poate reprezenta un risc semnificativ pentru informațiile și sistemele BSC.
 Urmează moduri în care malware-ul poate infecta sistemele companiei:
 
-1. Atacatorii pot folosi e-mailuri de phishing pentru a păcăli angajații
-   să facă clic pe linkuri malițioase sau să descarce atașamente infectate.
-   Odată ce un utilizator face clic pe link sau descarcă fișierul atașat,
-   malware-ul poate fi instalat pe computerul său sau în rețeaua companiei.
+- Atacatorii pot folosi e-mailuri de phishing pentru a păcăli angajații
+  să facă clic pe linkuri malițioase sau să descarce atașamente infectate.
+  Odată ce un utilizator face clic pe link sau descarcă fișierul atașat,
+  malware-ul poate fi instalat pe computerul său sau în rețeaua companiei.
 
-2. Angajații pot descărca software din surse nesigure sau pot vizita site-uri web malițioase,
-   ceea ce poate duce la instalarea de programe malware pe sistemele lor.
+- Angajații pot descărca software din surse nesigure sau pot vizita site-uri web malițioase,
+  ceea ce poate duce la instalarea de programe malware pe sistemele lor.
 
-3. Atacatorii pot utiliza, de asemenea, suporturi amovibile infectate,
-   cum ar fi unitățile USB, pentru a răspândi programe malware pe sistemele companiei.
+- Atacatorii pot utiliza, de asemenea, suporturi amovibile infectate,
+  cum ar fi unitățile USB, pentru a răspândi programe malware pe sistemele companiei.
 
 După efectuarea unei analize amănunțite a riscurilor potențiale asociate cu programele malware
 pentru BSC, s-a constatat că cel mai probabil scenariu de apariție a programelor malware
@@ -112,7 +112,7 @@ iar întreprinderea ar trebui să continue să implementeze
 și să mențină măsuri de securitate solide pentru a preveni
 și a atenua impactul oricărui atac malware potențial.
 
-### **4. Lipsa de securitate fizică**
+### 4. Lipsa de securitate fizică
 
 Lipsa de securitate fizică poate reprezenta un risc semnificativ pentru o BSC. Printre riscuri se numără:
 
@@ -141,22 +141,66 @@ De asemenea, compania ar trebui să desfășoare periodic programe de formare
 Probabilitatea ca aceste riscuri să se materializeze poate fi redusă
 la un nivel scăzut prin implementarea adecvată a măsurilor de securitate fizică.
 
-**5. Riscul terților**
-Datele sau sistemele companiei pot fi compromise de furnizori sau contractori terți, care pot avea controale de securitate mai slabe sau pot fi ținta atacatorilor.
-Consecințele ar putea include încălcări ale datelor, întreruperi ale sistemului sau pierderi financiare.
-Probabilitatea acestui risc este moderată, deoarece compania poate avea contracte și cerințe de securitate pentru furnizorii terți, dar există totuși un risc de compromitere.
+### 5. Riscul terților
 
-**6. Refuzul de furnizare a serviciilor**
-Atacatorii pot lansa un atac de negare a serviciului împotriva sistemelor companiei, ceea ce ar putea duce la întreruperea funcționării sistemului și la pierderi financiare.
+Colaborarea cu unii terți contractori sau furnizori poate prezenta diverse
+riscuri pentru securitatea sistemelor și a datelor companiei.
+
+Unele dintre aceste riscuri sunt:
+
+- **Acces neautorizat și divulgare neautorizată.**
+  Antreprenorii sau furnizorii terți pot avea acces la sistemele și datele companiei
+  pentru a-și îndeplini funcțiile, iar aceștia pot utiliza informații sensibile în mod abuziv
+  sau a le divulga.
+  De exemplu, un contractant ar putea fura date sensibile și le-ar putea
+  vinde unui concurent sau unui actor rău intenționat.
+
+- **Măsuri de securitate inadecvate.**
+  Este posibil ca terții contractori sau furnizori să nu dispună de măsuri de securitate
+  adecvate pentru a proteja sistemele și datele companiei.
+  Aceștia pot utiliza software sau hardware învechit,
+  pot avea parole slabe sau nu dispun de protocoale de criptare.
+
+- **Atacuri asupra lanțului de aprovizionare.**
+  Atacatorii pot exploata vulnerabilitățile din lanțul de aprovizionare, inclusiv terții contractori sau furnizori,
+  pentru a obține acces neautorizat la sistemele și datele companiei.
+  De exemplu, un atacator ar putea injecta programe malware într-o actualizare de software
+  de la un furnizor, pe care compania o instalează apoi și introduce,
+  fără să știe, programele malware în sistemul său.
+
+După ce a analizat aceste riscuri, compania a stabilit că acestea erau toate
+riscuri semnificative pentru sistemele și datele lor.
+
+Compania a ajuns la concluzia că riscurile asociate cu terții erau ridicate
+și necesitau o atenție imediată pentru a asigura securitatea și integritatea sistemelor și datelor lor.
+
+Compania a pus în aplicare măsuri de atenuare a acestor riscuri,
+inclusiv verificarea minuțioasă a contractorilor și furnizorilor terți,
+cerându-le să respecte protocoale de securitate stricte și auditarea
+periodică a măsurilor de securitate ale acestora.
+
+
+## 6. Refuzul de furnizare a serviciilor
+
+Atacatorii pot lansa un atac de negare a serviciului împotriva sistemelor companiei,
+ceea ce ar putea duce la întreruperea funcționării sistemului și la pierderi financiare.
 Consecințele ar putea include oprirea sistemului sau pierderi financiare.
-Probabilitatea acestui risc este moderată, deoarece este posibil ca întreprinderea să fi pus în aplicare măsuri de atenuare, dar există totuși riscul unui atac de succes.
+Probabilitatea acestui risc este moderată, deoarece este posibil ca întreprinderea să fi
+pus în aplicare măsuri de atenuare, dar există totuși riscul unui atac de succes.
 
-**7. Aplicații nesigure**
+## 7. Aplicații nesigure
+
 Aplicațiile dezvoltate de companie pot avea vulnerabilități care ar putea fi exploatate de atacatori, ceea ce ar duce la accesul neautorizat la date sau sisteme.
-Consecințele ar putea include încălcări ale datelor sau întreruperi ale sistemului.
-Probabilitatea acestui risc este moderată, deoarece este posibil ca întreprinderea să fi pus în aplicare măsuri de securitate în timpul dezvoltării, dar există totuși riscul ca vulnerabilitățile să nu fie observate.
 
-**8. Încălcarea securității datelor**
+Consecințele ar putea include încălcări ale datelor sau întreruperi ale sistemului.
+
+Probabilitatea acestui risc este moderată, deoarece este posibil ca întreprinderea să fi
+pus în aplicare măsuri de securitate în timpul dezvoltării, dar există totuși riscul ca vulnerabilitățile să nu fie observate.
+
+## 8. Încălcarea securității datelor
+
 Datele sensibile, cum ar fi informațiile despre clienți sau angajați, pot fi compromise din cauza unui incident de securitate.
+
 Consecințele ar putea include pierderi financiare, afectarea reputației companiei sau răspunderea juridică.
+
 Probabilitatea acestui risc este de la moderată la ridicată, deoarece încălcările de date sunt din ce în ce mai frecvente, iar atacatorii vizează din ce în ce mai mult datele sensibile. Riscul poate fi atenuat prin implementarea unor controale de securitate solide și prin monitorizarea activităților suspecte.
