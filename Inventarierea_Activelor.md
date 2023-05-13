@@ -21,6 +21,7 @@
 | 019 | Camere video                                 | Întreprinderea                        |
 | 020 | Dispozitive periferice (mouse, căști)        | Întreprinderea, lucrătorii            |
 | 021 | Rețeaua internă                              | Întreprinderea                        |
+|     | Email-urile lucrătorilor                     | Întreprinderea, lucrătorii            |
 
 
 **Măsurile de protecție:**
@@ -45,5 +46,31 @@ Traficul video trece prin rețeaua internă a încăperii și este stocat pe un 
 Camerele videa și rețeaua internă însă nu a trecut prin control minuțios, 
 fiind setată cu 2 ani în urmă, neatinsă de atunci.
 
+Rețeaua internă este complet închisă, și nu permite accesul din afară.
+Dispozitivele ca imprimante sunt accesibile doar dinăuntru rețelei interne.
+
 Dispozitivele periferice care se conectează la calculatoare prin USB sunt securizate conform structurii lor,
 însă dispozitivele Bluetooth nu sunt securizate, și pot fi conectate la orice dispozitive.
+Nu se face profilarea dipozitivelor Bluetooth după riscuri de hacking.
+
+Datele personale ale lucrătorilor și a contractorilor sunt stocate într-o bază de date de-a lui Microsoft.
+Accesul de citire la majoritatea datelor sensibile este permis doar unelor persoane.
+
+Accesul la aplicații interne este pe baza contului Microsoft, adică aceluiași cont care este folosit
+pentru autentificarea în calculatoare de lucru.
+
+Suporturile de date ca hard drive-uri și sticuri sunt folosite doar înăuntru oficiului,
+nu se permite a le lua acasă. Partajarea datelor de obicei se realizează prin servicii cloud.
+
+Poștele electronice folosesc un filtru sigur de spam pentru a se proteja de atacuri phishing.
+
+În cazul lucrului la distanță, se folosește o conexiune VPN securizată, și se folosesc
+doar calculatoarele de lucru, nu și dispozitivele personale.
+
+Instalarea programelor piratate sau nelicențiate este strict interzisă, dar nu este monitorizată activ.
+De fapt, lucrătorii au acces de admin la calculatoarele de lucru ale lor, putând instala orice programe,
+deoarece accesul admin este des necesar pentru configurarea corectă a unelor programe.
+
+Datele utilizatorilor aplicațiilor dezvoltate de companie, inclusiv securitatea acestora,
+sunt administrate de servicii externe. Politicele sunt configurate conform criteriilor recomandate
+de pe internet, însă politici concrete nu sunt definite.
