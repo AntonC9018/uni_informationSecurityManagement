@@ -1,29 +1,6 @@
 ## Inventarierea activelor
 
-| Id  | Denumire activ                               | Proprietar                            |
-|-----|----------------------------------------------|---------------------------------------|
-| 001 | Calculatoare de lucru                        | Întreprinderea                        |
-| 002 | Încăperile oficiului                         | Întreprinderea                        |
-| 003 | Datele personale ale lucrătorilor            | Lucrătorii                            |
-| 004 | Datele personale contractorilor              | Contractorii                          |
-| 005 | Datele personale utilizatorilor aplicațiilor | Utilizatorii aplicațiilor             |
-| 006 | Servicii folosite de pe cloud                | Întreprinderea, Microsoft Azure, etc. |
-| 007 | Programatori                                 | Întreprinderea                        |
-| 008 | Designeri                                    | Întreprinderea                        |
-| 009 | HR                                           | Întreprinderea                        |
-| 010 | Manageri de proiect                          | Întreprinderea                        |
-| 011 | Director                                     | Întreprinderea                        |
-| 012 | Imprimante, scanere                          | Întreprinderea                        |
-| 013 | Mașine de cafea                              | Întreprinderea                        |
-| 014 | Stații de joc                                | Întreprinderea                        |
-| 015 | Aplicații interne de dezvoltare              | Întreprinderea                        |
-| 016 | Hard drive-uri și sticuri din oficiu         | Întreprinderea                        |
-| 017 | Sistemul de management al datelor intern     | Întreprinderea                        |
-| 018 | Carduri de acces                             | Întreprinderea, lucrătorii            |
-| 019 | Camere video                                 | Întreprinderea                        |
-| 020 | Dispozitive periferice (mouse, căști)        | Întreprinderea, lucrătorii            |
-| 021 | Rețeaua internă                              | Întreprinderea                        |
-|     | Email-urile lucrătorilor                     | Întreprinderea, lucrătorii            |
+
 
 
 **Măsurile de protecție:**

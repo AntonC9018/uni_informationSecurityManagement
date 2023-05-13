@@ -1,26 +1,25 @@
-sep=; 
-Denumire activ;Proprietar;Clasament;Categoria;Cantitatea;Proprietar persoana
-Calculatoare de lucru                        ; Întreprinderea                        ;2;hardware ;1500;personal
-Încăperile oficiului                         ; Întreprinderea                        ;4;infra    ;3   ;personal
-Datele personale ale lucrătorilor            ; Lucrătorii                            ;3;documente;    ;lucrători
-Datele personale contractorilor              ; Contractorii                          ;3;documente;    ;contractori
-Datele personale utilizatorilor aplicațiilor ; Utilizatorii aplicațiilor             ;1;documente;    ;utilizatori
-Servicii folosite de pe cloud                ; Întreprinderea, Microsoft Azure, etc. ;1;cloud    ;    ;personal
-Programatori                                 ; Întreprinderea                        ;2;personal ;700 ;director
-Designeri                                    ; Întreprinderea                        ;2;personal ;50  ;director
-HR                                           ; Întreprinderea                        ;3;personal ;15  ;director
-Manageri de proiect                          ; Întreprinderea                        ;3;personal ;15  ;director
-Director                                     ; Întreprinderea                        ;3;personal ;1   ;
-Imprimante, scanere                          ; Întreprinderea                        ;4;hardware ;6   ;personal
-Mașine de cafea                              ; Întreprinderea                        ;5;hardware ;3   ;personal
-Stații de joc                                ; Întreprinderea                        ;5;hardware ;3   ;personal
-Aplicații interne de dezvoltare              ; Întreprinderea                        ;4;software ;    ;personal
-Hard drive-uri și sticuri din oficiu         ; Întreprinderea                        ;4;hardware ;30  ;personal
-Arhiva de date fizice                        ; Întreprinderea                        ;4;infra    ;    ;personal
-Carduri de acces RFID                        ; Întreprinderea, lucrătorii            ;5;hardware ;800 ;lucrători
-Sistem de acces RFID                         ; Întreprinderea                        ;5;hardware ;    ;personal
-Camere video                                 ; Întreprinderea                        ;5;hardware ;60  ;personal
-Dispozitive periferice (mouse, căști)        ; Întreprinderea, lucrătorii            ;5;hardware ;1500;lucrători
-Rețeaua internă                              ; Întreprinderea                        ;5;hardware ;    ;personal
-Configurarea rețelei interne                 ; Întreprinderea                        ;5;software ;    ;personal
-Serviciu de comunicare (de ex. Teams)        ; Întreprinderea, lucrătorii            ;2;software ;    ;personal
+ID;Denumire activ;Proprietar;Clasament;Categoria;Cantitatea;Proprietar persoana
+001; Calculatoare de lucru                        ; Întreprinderea                        ;2;hardware ;1500;personal
+002; Încăperile oficiului                         ; Întreprinderea                        ;4;infra    ;3   ;personal
+003; Datele personale ale lucrătorilor            ; Lucrătorii                            ;3;documente;    ;lucrători
+004; Datele personale contractorilor              ; Contractorii                          ;3;documente;    ;contractori
+005; Datele personale utilizatorilor aplicațiilor ; Utilizatorii aplicațiilor             ;1;documente;    ;utilizatori
+006; Servicii folosite de pe cloud                ; Întreprinderea, Microsoft Azure, etc. ;1;cloud    ;    ;personal
+007; Programatori                                 ; Întreprinderea                        ;2;personal ;700 ;director
+008; Designeri                                    ; Întreprinderea                        ;2;personal ;50  ;director
+009; HR                                           ; Întreprinderea                        ;3;personal ;15  ;director
+010; Manageri de proiect                          ; Întreprinderea                        ;3;personal ;15  ;director
+011; Director                                     ; Întreprinderea                        ;3;personal ;1   ;
+012; Imprimante, scanere                          ; Întreprinderea                        ;4;hardware ;6   ;personal
+013; Mașine de cafea                              ; Întreprinderea                        ;5;hardware ;3   ;personal
+014; Stații de joc                                ; Întreprinderea                        ;5;hardware ;3   ;personal
+015; Aplicații interne de dezvoltare              ; Întreprinderea                        ;4;software ;    ;personal
+016; Hard drive-uri și sticuri din oficiu         ; Întreprinderea                        ;4;hardware ;30  ;personal
+017; Arhiva de date fizice                        ; Întreprinderea                        ;4;infra    ;    ;personal
+018; Carduri de acces RFID                        ; Întreprinderea, lucrătorii            ;5;hardware ;800 ;lucrători
+019; Sistem de acces RFID                         ; Întreprinderea                        ;5;hardware ;    ;personal
+020; Camere video                                 ; Întreprinderea                        ;5;hardware ;60  ;personal
+021; Dispozitive periferice (mouse, căști)        ; Întreprinderea, lucrătorii            ;5;hardware ;1500;lucrători
+022; Rețeaua internă                              ; Întreprinderea                        ;5;hardware ;    ;personal
+023; Configurarea rețelei interne                 ; Întreprinderea                        ;5;software ;    ;personal
+024; Serviciu de comunicare (de ex. Teams)        ; Întreprinderea, lucrătorii            ;2;software ;    ;personal
