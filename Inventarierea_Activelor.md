@@ -78,7 +78,7 @@ sunt administrate de servicii externe. Politicele sunt configurate conform crite
 de pe internet, însă politici concrete nu sunt definite.
 
 
-## Clasificarea activelor
+## Clasificarea activelor după importanță
 
 
 1. critică -- activitațile cele mai esențiale ale întreprinderii sunt imposibile făra acest activ;
@@ -155,4 +155,21 @@ Rețeaua internă se folosește doar pentru accesarea scanerilor și a imprimant
 ceea ce poate fi făcut și în mod manual,
 și pentru funcționarea camerelor video, ceea ce s-a stabilit că nu-i esențială.
 De aceea, importanța ei este **neglijabilă**.
+
+**Programele de comunicare (mesagerie)** sunt esențiale cel puțin pentru procesele de dezvoltare. 
+De aceea, importanța lor este **mare**.
+
+## Clasificarea activelor după clasă
+
+- Personal (personal)
+- Active tangibile (documente)
+- Hardware, active IT fizice (hardware)
+- Software (software)
+- Servicii cloud (cloud)
+- Elemente de infrastructură (infra)
+
+
+
+
+
 
