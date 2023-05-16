@@ -2,28 +2,6 @@
 
 ### 1. Amenințarea din interior
 
-- **Un angajat rău intenționat** poate fura în mod intenționat date sensibile
-  sau proprietate intelectuală pentru a le vinde unui concurent sau pentru a le folosi
-  în interes propriu. Aceștia își pot folosi accesul autorizat la sisteme pentru
-  a copia sau descărca date sau pentru a efectua modificări neautorizate la sisteme sau aplicații.
-
-- Un angajat poate **compromite accidental securitatea sistemelor** sau a datelor,
-  făcând clic pe un e-mail de phishing,
-  descărcând programe malware sau utilizând parole slabe.
-  Este posibil ca aceștia să nu realizeze impactul acțiunilor lor sau
-  să nu fie conștienți de politicile și procedurile de securitate în vigoare.
-
-- **Un angajat neglijent** poate compromite din greșeală securitatea sistemelor sau a datelor,
-  lăsându-și calculatorul deblocat, împărtășind acreditările de conectare sau stocând date sensibile
-  pe dispozitive sau servicii cloud nesecurizate. Este posibil ca aceștia să nu înțeleagă
-  importanța securității sau să prioritizeze confortul în detrimentul securității.
-
-- Contul sau dispozitivul unui angajat poate fi
-  **compromis de un atacator extern**, care apoi folosește accesul autorizat al lui
-  la sisteme pentru a fura date, a lansa atacuri sau a-și ascunde activitățile.
-  Este posibil ca persoana din interior să nu-și dea seama că contul sau dispozitivul
-  său a fost compromis, sau poate fi constrânsă sau mituită de atacator pentru a-l ajuta.
-
 Riscul amenințărilor din interior a fost evaluat ca un *risc semnificativ* pentru organizație.
 După efectuarea unei evaluări cuprinzătoare a riscurilor, s-a stabilit că probabilitatea
 de apariție a unei amenințări din interior este *de la moderată la ridicată*.
@@ -47,25 +25,6 @@ desfășurarea unor cursuri periodice de sensibilizare la securitate pentru anga
 
 ### 2. Phishing și inginerie socială
 
-Aceste tipuri de atac reprezintă riscuri semnificative pentru organizație.
-Pe baza rapoartelor din industrie s-au identificat mai multe moduri în care pot avea loc aceste atacuri:
-
-- Atacatorii pot trimite e-mailuri de *phishing* frauduloase angajaților sau contractorilor,
-  deghizate în mesaje legitime de la o sursă de încredere, cum ar fi un coleg, un client sau un furnizor.
-  Aceste e-mailuri conțin adesea linkuri sau atașamente care, atunci când sunt accesate,
-  pot infecta dispozitivul destinatarului cu programe malware sau îi pot fura datele de autentificare.
-
-- *Spear phishing*, o formă mai bine direcționată de phishing, în care atacatorii folosesc
-  informații personalizate colectate din rețelele sociale, din dosare publice sau din alte surse
-  pentru a crea un mesaj convingător care pare a proveni de la o sursă de încredere.
-  Acest tip de atac este adesea îndreptat către directori de nivel înalt
-  sau angajați cu acces la informații sensibile.
-
-- Atacatorii pot folosi diverse tactici de *inginiere socială*, cum ar fi lingușirea,
-  intimidarea sau persuasiunea, pentru a manipula angajații sau contractorii să divulge
-  informații sensibile sau să efectueze o acțiune care compromite securitatea organizației.
-  De exemplu, un atacator ar putea suna un angajat pretinzând că este de la serviciul de asistență IT
-  și să-i ceară datele de autentificare sau să se dea drept furnizor și să solicite o plată într-un cont fraudulos.
 
 În urma analizei datelor istorice din compania BSC însă, s-a determinat că riscul de phishing și inginerie socială
 este redus, deoarece nu au fost raportate incidente de acest tip în trecut.
@@ -79,20 +38,6 @@ pentru a reduce riscul de phishing la momentul dat.
 
 
 ### 3. Infecții malware
-
-Malware-ul poate reprezenta un risc semnificativ pentru informațiile și sistemele BSC.
-Urmează moduri în care malware-ul poate infecta sistemele companiei:
-
-- Atacatorii pot folosi e-mailuri de phishing pentru a păcăli angajații
-  să facă clic pe linkuri malițioase sau să descarce atașamente infectate.
-  Odată ce un utilizator face clic pe link sau descarcă fișierul atașat,
-  malware-ul poate fi instalat pe computerul său sau în rețeaua companiei.
-
-- Angajații pot descărca software din surse nesigure sau pot vizita site-uri web malițioase,
-  ceea ce poate duce la instalarea de programe malware pe sistemele lor.
-
-- Atacatorii pot utiliza, de asemenea, suporturi amovibile infectate,
-  cum ar fi unitățile USB, pentru a răspândi programe malware pe sistemele companiei.
 
 După efectuarea unei analize amănunțite a riscurilor potențiale asociate cu programele malware
 pentru BSC, s-a constatat că cel mai probabil scenariu de apariție a programelor malware
@@ -113,22 +58,6 @@ iar întreprinderea ar trebui să continue să implementeze
 și a atenua impactul oricărui atac malware potențial.
 
 ### 4. Lipsa de securitate fizică
-
-Lipsa de securitate fizică poate reprezenta un risc semnificativ pentru o BSC. Printre riscuri se numără:
-
-- Furtul de dispozitive fizice, cum ar fi laptopuri, hard disk-uri și telefoane mobile.
-  În cazul în care aceste dispozitive conțin date sensibile sau credențiale de acces,
-  accesul neautorizat la aceste dispozitive poate reprezenta o amenințare semnificativă pentru companie.
-
-- Lipsa controlului accesului la zonele sensibile, cum ar fi sălile de servere,
-  centrele de date și infrastructura critică, poate duce la accesul neautorizat în aceste zone.
-  Acest lucru poate duce la furtul, distrugerea sau alterarea infrastructurii critice,
-  a hardware-ului sau a datelor.
-
-- Lipsa măsurilor de securitate fizică poate face, de asemenea,
-  ca întreprinderea să fie vulnerabilă la atacurile de inginerie socială.
-  Un atacator se poate da drept un angajat sau un contractant legitim pentru
-  a obține acces la zone sau informații sensibile.
 
 Consecința acestor riscuri ar putea include pierderea proprietății intelectuale,
 breși ale datelor și daune de reputație.

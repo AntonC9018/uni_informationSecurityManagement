@@ -1,7 +1,6 @@
 ## Inventarierea activelor
 
-
-
+*A se vede fișierul cu tabela*.
 
 **Măsurile de protecție:**
 
@@ -55,7 +54,7 @@ sunt administrate de servicii externe. Politicele sunt configurate conform crite
 de pe internet, însă politici concrete nu sunt definite.
 
 
-## Clasificarea activelor după importanță
+## Categorizarea activelor după importanță
 
 
 1. critică -- activitațile cele mai esențiale ale întreprinderii sunt imposibile făra acest activ;
@@ -136,7 +135,7 @@ De aceea, importanța ei este **neglijabilă**.
 **Programele de comunicare (mesagerie)** sunt esențiale cel puțin pentru procesele de dezvoltare. 
 De aceea, importanța lor este **mare**.
 
-## Clasificarea activelor după clasă
+## Categorizarea activelor după clasă
 
 - Personal (personal)
 - Active tangibile (documente)
