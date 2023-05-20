@@ -1,0 +1,16 @@
+from: markdown
+to: docx
+
+filters:
+  - pagebreaks.lua
+
+standalone: true
+table-of-contents: true
+toc-depth: 2
+reference-links: true
+reference-location: document
+reference-doc: reference.docx
+number-sections: true
+citeproc: true
+variables:
+  documentclass: memoir

@@ -113,3 +113,7 @@ Lipsa de securitate fizică poate reprezenta un risc semnificativ pentru o BSC.
   ca întreprinderea să fie vulnerabilă la atacurile de inginerie socială.
   Un atacator se poate da drept un angajat sau un contractant legitim pentru
   a obține acces la zone sau informații sensibile.
+
+### Alte vulnerabilități
+
+Există mult mai multe vulnerabilități posibile, însă nu vor fi menționate aici, pentru a economisi timpul.
